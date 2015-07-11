@@ -24,9 +24,17 @@
 *.exe
 *.out
 *.app
+*.class
 *.i*86
 *.x86_64
 *.hex
 
+# Archive files
+*.jar
+
 # Debug files
 *.dSYM/
+
+# Backup files
+*~
+*.swp
